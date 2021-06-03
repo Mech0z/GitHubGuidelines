@@ -19,6 +19,7 @@ This guide is inspired these sites
 * [Midori-global - Maximum characters rule](https://www.midori-global.com/blog/2018/04/02/git-50-72-rule)
  
 ## The Guide
+![image](https://user-images.githubusercontent.com/2316684/120662079-21b4e900-c489-11eb-905e-d0925120b778.png)
 
 
 ## Example
