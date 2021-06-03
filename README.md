@@ -19,7 +19,7 @@ This guide is inspired these sites
 * [Midori-global - Maximum characters rule](https://www.midori-global.com/blog/2018/04/02/git-50-72-rule)
  
 ## The Guide
-TODO Insert example picture of PR merge
+
 
 ## Example
 Capitalized, short (50 chars or less) summary
@@ -44,6 +44,7 @@ Also only 1 type should be used, if the code contains both a feature and a bug f
 	- Style changes, formatting
 * **refac**
 	- Refactoring
+
 * **perf**
 	- Performance improvements
 * **test**
