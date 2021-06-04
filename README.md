@@ -1,6 +1,6 @@
 # GIT commit message guidelines
 
-## Introduction
+# Introduction
 
 These guidelines are written minding that most teams at the moment use Squash Merge when merging pull requests into the main branch.
 
@@ -18,13 +18,10 @@ This guide is inspired these sites
 * [Hashcode - Commit message convention questionnaire](https://hashnode.com/post/which-commit-message-convention-do-you-use-at-work-ck3e4jbdd00zyo4s1h7mc7e0g)
 * [Midori-global - Maximum characters rule](https://www.midori-global.com/blog/2018/04/02/git-50-72-rule)
  
-## The Guide
-![image](https://user-images.githubusercontent.com/2316684/120662079-21b4e900-c489-11eb-905e-d0925120b778.png)
-
+# The Guide
 
 ## Example
-Capitalized, short (50 chars or less) summary
-
+![image](https://user-images.githubusercontent.com/2316684/120662079-21b4e900-c489-11eb-905e-d0925120b778.png)
 
 
 ## Subject / Header
