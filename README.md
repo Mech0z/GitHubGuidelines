@@ -21,7 +21,7 @@ This guide is inspired these sites
 # The Guide
 
 ## Example
-![image](https://user-images.githubusercontent.com/2316684/120662079-21b4e900-c489-11eb-905e-d0925120b778.png)
+![image](https://user-images.githubusercontent.com/2316684/120774323-0670ca80-c4d7-11eb-8ccc-2f5eecbcfab7.png)
 
 
 ## Subject / Header
