@@ -1,4 +1,4 @@
-# GIT commit message guidelines
+﻿# GIT commit message guidelines
 
 # Introduction
 
@@ -27,7 +27,7 @@ This guide is inspired these sites
 ## Subject / Header
 
 #### Types
-The make it easier to look in Git log and search across the codebase we make 
+To make it easier to look in Git log and search across the codebase we make 
 the following types that are prefixed in the subject, our example is copied from [this](https://cdn.hashnode.com/res/hashnode/image/upload/v1577374984862/Q7QGKgtEB.png?auto=compress) they are on purpose shortend to not "steal" from the maximum of 50 characters.
 
 Also only 1 type should be used, if the code contains both a feature and a bug fix, those should be 2 different commits.
@@ -64,6 +64,7 @@ For example:
     If applied, this commit will Remove deprecated methods
     If applied, this commit will Release version 1.0.0
     If applied, this commit will Merge pull request #123 from user/branch
+
 Notice how this doesn’t work for the other non-imperative forms:
 
     If applied, this commit will fixed bug with Y
@@ -75,7 +76,7 @@ Notice how this doesn’t work for the other non-imperative forms:
 When merging a PR, GitHub will automatically write e.g. (#314), this should be persisted in the final commit message to make it easy to find the PR.
 
 #### Maximum length of subject: 50 <= characters.
-When writing the total length including type and PR information should be 50 or below, this is to ensure easy readabiliby in all Git Clients, see [this](https://www.midori-global.com/blog/2018/04/02/git-50-72-rule) for reference  following format.
+When writing the subject, the total length including type and PR information should be 50 chars or below, this is to ensure easy readability in all Git Clients, see [this](https://www.midori-global.com/blog/2018/04/02/git-50-72-rule) for reference  following format.
 GitHub will truncate any subject line longer than 72 characters with an ellipsis.
 
 #### Do not end the subject line with a period
@@ -93,8 +94,6 @@ For example:
 Instead of:
 
     accelerate to 88 miles per hour
-
-4. Do not end the subject l
 
 #### Subject template
 Type: Description (#123)
